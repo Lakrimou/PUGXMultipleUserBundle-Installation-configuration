@@ -1,0 +1,11 @@
+taseera_user_homepage:
+    path:     /
+    defaults: { _controller: TaseeraUserBundle:Default:index }
+
+#user_one_registration_register:
+ #   path:     /
+  #  defaults: { _controller: TaseeraUserBundle:RegistrationUserOne:register }
+
+#user_two_registration_register:
+ #   path:     /
+  #  defaults: { _controller: TaseeraUserBundle:RegistrationUserOne:register }
